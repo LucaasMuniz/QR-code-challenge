@@ -35,6 +35,9 @@ body {
 
 p {
     color: hsl(220, 15%, 55%);
+    text-align:center;
+    margin: 0 1em;
+    border-radius: 12px;
 }
 
 .attribution { 
